@@ -14,5 +14,10 @@ namespace App
             Console.WriteLine("Lasbas pasauli.");
             Console.WriteLine("Lasbas pasauli.");
         }
+
+        static void Labas()
+        {
+            Console.WriteLine("Labas.");
+        }
     }
 }
