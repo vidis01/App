@@ -15,6 +15,7 @@ namespace App
             Labas();
             Labas();
             Labas();
+            Labas();
         }
 
         static void Labas()
