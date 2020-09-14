@@ -10,9 +10,9 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lasbas pasauli.");
-            Console.WriteLine("Lasbas pasauli.");
-            Console.WriteLine("Lasbas pasauli.");
+            Console.WriteLine("Lasbas pasauli!");
+
+            Labas();
         }
 
         static void Labas()
