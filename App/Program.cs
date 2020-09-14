@@ -13,6 +13,8 @@ namespace App
             Console.WriteLine("Lasbas pasauli!");
 
             Labas();
+            Labas();
+            Labas();
         }
 
         static void Labas()
